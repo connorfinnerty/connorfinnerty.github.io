@@ -1,7 +1,6 @@
 ---
 layout: default
-date:   2014-04-06 23:26:12
-photo: gbm2.png
-caption_header: Smart Link
-caption: Data Visualization for Building Energy
+photo: srlink.png
+caption_header: Data Visualization App
+caption: Visualizing data for energy efficiency, currently in development for Smart Resource Labs.
 ---

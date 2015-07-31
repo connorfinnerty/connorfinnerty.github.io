@@ -1,6 +1,5 @@
 ---
 layout: default
-date:   2014-04-06 23:26:12
 photo: evtkiosk.png
 caption_header: Efficiency Vermont Kiosk
 caption: sample Better Buildings By Design Conference 2015

@@ -62,8 +62,7 @@
 }
 
 .grid figcaption {
-	background: #e4e4e4;
-	padding: 25px;
+	padding: 0;
 }
 
 /* Slideshow style */
