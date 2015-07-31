@@ -19,7 +19,7 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 .clearfix:after { clear: both; }
 
 body {
-    font-family: 'Helvetica Neue', Calibri, Arial, sans-serif;
+    font-family: 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
     color: #000000;
 }
 
