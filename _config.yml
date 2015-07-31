@@ -1,0 +1,8 @@
+name: Connor Finnerty
+markdown: redcarpet
+pygments: true
+permalink: /:year/:month/:title/
+url: http://connorfinnerty.github.io
+author:
+    name: Connor Finnerty
+    twitter: twitter.com/connorfinnerty
