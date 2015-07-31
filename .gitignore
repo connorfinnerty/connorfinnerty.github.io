@@ -1,2 +1,4 @@
 _site
-.sass-cache
+
+#stupid OSX files
+.DS_Store
