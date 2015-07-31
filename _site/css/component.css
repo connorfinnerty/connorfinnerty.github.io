@@ -27,6 +27,9 @@ img.desaturate:hover { -webkit-filter: grayscale(0%); filter: grayscale(0%); }
 .grid-wrap figure img {
 	display: block;
 	width: 100%;
+	border-top: .1em solid rgba(220, 220, 220, 0.31);
+	border-right: .1em solid rgba(220, 220, 220, 0.31);
+	border-left: .1em solid rgba(220, 220, 220, 0.31);
 }
 
 .slideshow figure img {
