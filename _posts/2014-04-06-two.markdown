@@ -1,6 +1,6 @@
 ---
 layout: default
 photo: srlink.png
-caption_header: Data Visualization App
-caption: Visualizing data for energy efficiency, currently in development for Smart Resource Labs.
+caption_header: Data Visualization
+caption: Ruby on Rails web application for visualizing data, currently in development for Smart Resource Labs.
 ---

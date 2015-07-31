@@ -1,6 +1,6 @@
 ---
 layout: default
 photo: evtkiosk.png
-caption_header: Efficiency Vermont Kiosk
-caption: sample Better Buildings By Design Conference 2015
+caption_header: Efficiency Vermont Display
+caption: Interactive display designed and built for Efficiency Vermont to display smart technologies at the Better Buildings By Design Conference 2015.
 ---

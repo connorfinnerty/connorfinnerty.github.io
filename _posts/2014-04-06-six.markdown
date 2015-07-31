@@ -1,6 +1,6 @@
 ---
 layout: default
-photo: gbm.png
-caption_header: Sample header
-caption: sample caption
+photo: ai-ex2.jpg
+caption_header: Illustration
+caption: Custom illustrations, and digital graphics for print and web.
 ---
