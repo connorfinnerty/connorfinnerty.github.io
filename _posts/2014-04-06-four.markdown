@@ -1,6 +1,6 @@
 ---
 layout: default
 photo: rg.png
-caption_header: Richard Gliech Translator
+caption_header: Richard Gliech Translator, VT
 caption: Wordpress site designed and built for an English to French translation service in Burlington, Vermont.
 ---

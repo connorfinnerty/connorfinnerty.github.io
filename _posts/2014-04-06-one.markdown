@@ -1,6 +1,6 @@
 ---
 layout: default
 photo: evtkiosk.png
-caption_header: Efficiency Vermont Display
+caption_header: Efficiency Vermont Display, VT
 caption: Interactive display designed and built for Efficiency Vermont to display smart technologies at the Better Buildings By Design Conference 2015.
 ---

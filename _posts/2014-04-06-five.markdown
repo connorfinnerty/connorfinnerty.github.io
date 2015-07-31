@@ -1,6 +1,6 @@
 ---
 layout: default
 photo: srl.png
-caption_header: Smart Resource Labs
+caption_header: Smart Resource Labs, VT
 caption: Splash page built in Ruby on Rails for Smart Resource Labs, data company based in Burlington, Vermont.
 ---

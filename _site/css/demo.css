@@ -24,7 +24,7 @@ body {
 }
 
 a {
-	color: #FF008C;
+	color: rgba(255, 0, 65, 0.69);
 	text-decoration: underline;
 	outline: none;
 }

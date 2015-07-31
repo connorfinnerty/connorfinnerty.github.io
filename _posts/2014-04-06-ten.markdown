@@ -1,6 +1,6 @@
 ---
 layout: default
-photo: merrills1.jpg
-caption_header: Duane Merrill & Company
-caption: Layout designs for a Drupal based website for an auctioneer and appraisal business in Williston, Vermont.
+photo: merrills_1.jpg
+caption_header: Duane Merrill & Company, VT
+caption: Designs and layout for a Drupal based website for an auctioneer and appraisal business in Williston, Vermont.
 ---

@@ -10,6 +10,10 @@
 } /* Made with http://icomoon.io/app */
 
 /* General style */
+img.desaturate { -webkit-filter: grayscale(100%); filter: grayscale(100%); }
+
+img.desaturate:hover { -webkit-filter: grayscale(0%); filter: grayscale(0%); }
+
 .grid-gallery ul {
 	list-style: none;
 	margin: 0;
@@ -23,9 +27,7 @@
 .grid-wrap figure img {
 	display: block;
 	width: 100%;
-	margin-bottom: .5em;
 }
-
 
 .slideshow figure img {
 	display: block;
@@ -34,9 +36,21 @@
   margin-bottom: 1em;
 	}
 
-.grid-gallery figcaption h3 {
+.slideshow figcaption h3 {
 	margin: 0;
-	padding: 0 0 0.5em;
+	padding: 1em 0 0.2em;
+	font-weight: 600;
+	font-size: 120%;
+}
+
+
+.grid-wrap figcaption h3 {
+    margin: 0;
+    padding: .8em;
+    color: white;
+    font-size: .7em;
+    font-weight: normal;
+    background-color: rgb(9, 146, 255);
 }
 
 .grid-wrap figcaption h3:hover {
@@ -45,6 +59,7 @@
 
 .grid-gallery figcaption p {
 	margin: 0;
+	font-size: .8em;
 }
 
 /* Grid style */
@@ -126,7 +141,7 @@
 
 .slideshow li {
 	width: 660px;
-	height: 560px;
+	height: 470px;
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -167,11 +182,6 @@
 
 .slideshow figcaption {
 	padding-bottom: 20px;
-}
-
-.slideshow figcaption h3 {
-	font-weight: 600;
-	font-size: 200%;
 }
 
 /* Navigation */

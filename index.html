@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="container">
 	<header class="clearfix">
-		<h1><strong>Well, hello!</strong> I do design and <a target="_blank" href="http://github.com/connorfinnerty">web development</a> at a <a href="http://smartrl.com">tech startup</a> in Burlington, Vermont. Currently looking for contract work, so if you think I could help, <a href="mailto:connorfinnerty@gmail.com">contact me!</a></h1>
+		<h1><strong>Well, hello!</strong> I do design and <a target="_blank" href="http://github.com/connorfinnerty">web development</a> at a <a href="http://smartrl.com">tech startup</a> in Burlington, Vermont. I also do contract work, so if you think I could help, <a href="mailto:connorfinnerty@gmail.com">contact me!</a></h1>
 	</header>
 	<div id="grid-gallery" class="grid-gallery">
 
@@ -13,7 +13,7 @@ layout: default
 		{% for post in site.posts %}
 		<li>
 			<figure>
-				<img src="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img"/>
+				<img src="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img" class="desaturate"/>
 				<figcaption>
 					<h3>{{ post.caption_header}}</h3>
 				</figcaption>

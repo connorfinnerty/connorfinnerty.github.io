@@ -1,6 +1,6 @@
 ---
 layout: default
 photo: gbm.png
-caption_header: Green Building Manager
+caption_header: Green Building Manager, VT
 caption: Building management system and social platform, built in Ruby on Rails, designed and developed for Smart Resource Labs.
 ---
