@@ -192,7 +192,7 @@ img.desaturate:hover { -webkit-filter: grayscale(0%); filter: grayscale(0%); }
 .slideshow nav span {
 	position: fixed;
 	z-index: 1000;
-	color: #fff;
+	color: black;
 	text-align: center;
 	padding: 3%;
 	cursor: pointer;
@@ -214,7 +214,7 @@ img.desaturate:hover { -webkit-filter: grayscale(0%); filter: grayscale(0%); }
 	top: 0;
 	right: 0;
 	padding: 0.5em 1em;
-	color: #fff;
+	color: black;
 }
 
 .icon:before,
