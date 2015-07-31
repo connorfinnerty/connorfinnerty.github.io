@@ -54,7 +54,7 @@ img.desaturate:hover { -webkit-filter: grayscale(0%); filter: grayscale(0%); }
     color: white;
     font-size: .7em;
     font-weight: normal;
-    background-color: rgb(9, 146, 255);
+    background-color: rgb(255, 79, 123);
 }
 
 .grid-wrap figcaption h3:hover {
