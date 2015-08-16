@@ -20,7 +20,8 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 
 body {
     font-family: 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
-    color: #000000;
+    color: #4F4444;
+    background-color: #EAF5FF;
 }
 
 a {
