@@ -1,7 +1,7 @@
-title: Urban Template
-url: "https://teal-worm.cloudvent.net"
+title: Connor Finnerty | Portfolio
+url: "https://connorfinnerty.github.io"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-34889418-1
 google_maps_javascript_api_key:
 disqus_shortname:
 
@@ -66,9 +66,6 @@ defaults:
 # CloudCannon
 
 social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
   - LinkedIn
   - Pinterest
   - Tumblr
