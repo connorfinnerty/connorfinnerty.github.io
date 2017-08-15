@@ -1,6 +1,0 @@
----
-layout: default
-photo: ai-ex2.jpg
-caption_header: Illustration
-caption: Custom illustrations, and digital graphics for print and web.
----

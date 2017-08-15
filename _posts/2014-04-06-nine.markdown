@@ -1,6 +1,0 @@
----
-layout: default
-photo: modelhideout_2.jpg
-caption_header: Model Hideout Logo and Branding, AU
-caption: "Connor was a pleasure to work with, he was very helpful and great with leading us to achieve our desired outcome. Highly recommend!"
----

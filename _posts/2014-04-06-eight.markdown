@@ -1,6 +1,0 @@
----
-layout: default
-photo: gd-ex2.png
-caption_header: Criffel Envt'l Logo, UK
-caption: “First class. No issues! I would highly recommend Connor. He listened to what I wanted and when required came up with some very original ideas. He was very patient and communicated very well. The logo designed is better than I imagined. Pleasures doing business. Very highly recommended!”
----

@@ -1,6 +1,0 @@
----
-layout: default
-photo: srlink.png
-caption_header: Data Visualization, VT
-caption: Ruby on Rails web application for visualizing data, currently in development for Smart Resource Labs.
----

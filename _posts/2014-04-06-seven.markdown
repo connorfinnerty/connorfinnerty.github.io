@@ -1,6 +1,0 @@
----
-layout: default
-photo: gd-ex1.jpg
-caption_header: Russian Tea Room Ad, NYC
-caption: “I am absolutely delighted with Connor's work. He began work immediately and didn't stop (I was on deadline) until it was done. Creative and totally professional, he is someone I will definitely use in the future and someone I recommend to anyone without hesitation.”
----
