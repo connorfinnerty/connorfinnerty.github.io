@@ -14,7 +14,7 @@
 }
 
 header {
-	color: #fff;
+	color: #444;
 	padding: 20px 0;
 	position: absolute;
 	top: 0;
@@ -22,7 +22,7 @@ header {
 	width: 100%;
 
 	a {
-		color: #fff;
+		color: #444;
 		text-decoration: none;
 		z-index: 1;
 		position: relative;
@@ -74,7 +74,7 @@ section {
 	}
 
 	&.hero {
-		color: #ffffff;
+		color: #444;
 		background: $brand-color;
 		text-align: left;
 		margin-top: -100px;
@@ -90,11 +90,11 @@ section {
 
 		p {
 			font-size: 1.8rem;
-			color: #fff;
+			color: #444;
 		}
 
 		a:not(.button) {
-			color: #ffffff;
+			color: #444;
 			font-style: italic;
 		}
 	}
@@ -108,7 +108,7 @@ section {
 	padding: 13px 38px;
 	border-radius: 3px;
 	display: inline-block;
-	color: $brand-color;
+	color: #0bacff;
 	text-decoration: none;
 	cursor: pointer;
 	margin: 20px 0 0 0;
@@ -118,13 +118,13 @@ section {
 
 	&:hover {
 		background: rgba(255, 255, 255, 0.3);
-		color: #fff;
+		color: #444;
 	}
 
 	&:active {
 		opacity: 1;
 		background: rgba(255, 255, 255, 0.1);
-		color: #fff;
+		color: #444;
 		transform: translateY(1px);
 	}
 }
@@ -169,7 +169,7 @@ section {
 		position: relative;
 		overflow: hidden;
 		margin: 20px;
-		border-radius: 5px;
+		border-radius: 2px;
 		text-align: left;
 		border: 1px solid $brand-color;
 		line-height: 0;
@@ -221,7 +221,7 @@ section {
 
 	.position {
 		margin-top: 5px;
-		color: #fff;
+		color: #444;
 	}
 
 	.filler {

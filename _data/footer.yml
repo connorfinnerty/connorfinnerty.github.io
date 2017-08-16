@@ -4,25 +4,19 @@
       link: /
     - name: Portfolio
       link: /portfolio/
-    - name: Blog
-      link: /blog/
     - name: About
       link: /about/
     - name: Contact
       link: /contact/
 - title: Social
   links:
-    - name: Facebook
+    - name: Github
       link:
-      social_icon: Facebook
+      social_icon: LinkedIn
       new_window: true
-    - name: Twitter
+    - name: Behance
       link:
-      social_icon: Twitter
-      new_window: true
-    - name: Google+
-      link:
-      social_icon: Google Plus
+      social_icon: LinkedIn
       new_window: true
     - name: LinkedIn
       link:
