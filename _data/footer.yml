@@ -1,24 +1,20 @@
 - title: Pages
   links:
-    - name: Home
-      link: /
     - name: Portfolio
       link: /portfolio/
     - name: About
-      link: /about/
-    - name: Contact
-      link: /contact/
+      link: /
 - title: Social
   links:
     - name: Github
-      link:
-      social_icon: LinkedIn
+      link: https://github.com/connorfinnerty
+      social_icon: Github
       new_window: true
     - name: Behance
       link:
-      social_icon: LinkedIn
+      social_icon: Behance
       new_window: true
     - name: LinkedIn
-      link:
+      link: https://www.linkedin.com/in/connor-finnerty-6172b239/
       social_icon: LinkedIn
       new_window: true
