@@ -1,45 +1,39 @@
 ---
-title: Urban
+title: Connor Finnerty
 ---
+<div class="index-page">
+	<section class="hero diagonal">
+		<div class="container">
+				<h2 class="editable">Experiences, designed and built for the web.</h2>
 
-<section class="hero diagonal">
-	<div class="container">
-		<h2 class="editable">Experiences, designed and built for the web.</h2>
-		<p class="subtext editable">Hi! I'm currently a UI Designer and unicorn at <a href="http://infiswift.com/">infiswift</a>, designing, building and maintaining web and mobile apps for small and large
-businesses. Experience in renewables, agriculture and data management.</p>
-		<p>
-		<a class="button alt" href="mailto:connorfinnerty@gmail.com?subject=Contact%20Me%20 &amp;">Contact Me</a></p>
-	</div>
-</section>
+		</div>
+		<div class="container halves">
+			<div>
+				<ul class="image-list">
+					<li><img class="me" src="{{ site.baseurl }}/images/me.png"></li>
+				</ul>
+			</div>
+			<div>
+				<p class="bio subtext editable"><strong>Hi there!</strong> I'm currently a UI Designer and unicorn at <a href="http://infiswift.com/">infiswift</a>. I design, build and maintain web and mobile apps for small and large
+		businesses for renewables, agriculture and data management. <a href="mailto:connorfinnerty@gmail.com?subject=Contact%20Me%20 &amp;"> Contact me!</a></p></p>
+			</div>
+		</div>
+	</section>
 
-<section class="diagonal patterned">
-	<div class="container halves">
-		<div>
-			<h3 class="editable">Some of my work</h3>
-			<p class="editable">From front end to the Over the past 7 years I have been designing and coding solutions for businesses across industries, and across the world.</p>
-			<p class="editable"><a href="{{ site.baseurl }}/portfolio/">View Full Portfolio &rarr;</a></p>
+	<section class="diagonal patterned">
+		<div class="container halves">
+			<div>
+				<h3 class="editable">Some of my work</h3>
+				<p class="editable">Front to back-end solutions for businesses across industries and across the world, for the past 7 years.</p>
+				<p class="editable"><a href="{{ site.baseurl }}/portfolio/">View Full Portfolio &rarr;</a></p>
+			</div>
+			<div>
+				<ul class="image-grid index-grid">
+					{% for client in site.clients limit: 4 %}
+						<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}"></a></li>
+					{% endfor %}
+				</ul>
+			</div>
 		</div>
-		<div>
-			<ul class="image-grid">
-				{% for client in site.clients limit: 4 %}
-					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}"></a></li>
-				{% endfor %}
-			</ul>
-		</div>
-	</div>
-</section>
-
-<section class="diagonal">
-	<div class="container halves">
-		<div>
-			<ul class="image-list">
-				<li><img src="{{ site.baseurl }}/images/cloudcannon-logo-blue.svg" width="250" style="margin-bottom: 40px;"></li>
-				<li><img src="{{ site.baseurl }}/images/jekyll-logo-black-red-transparent.png" width="300"></li>
-			</ul>
-		</div>
-		<div>
-			<h3 class="editable">Latest software, greatest perfomance</h3>
-			<p class="editable">As a new agency we get reap the benefits of the latest and greatest. We build our websites with the most up to date technology. This ensures your website is fast, efficient and reliable for many years.</p>
-		</div>
-	</div>
-</section>
+	</section>
+</div>

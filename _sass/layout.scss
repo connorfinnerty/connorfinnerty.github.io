@@ -1,3 +1,11 @@
+p,h1,h2,h3,h4,h5,h6,a {
+		font-family: 'Raleway', sans-serif;
+}
+
+h2,h3 {
+		font-family: 'Playfair Display', serif;
+}
+
 .container,
 .text-container {
 	margin: 0 auto;
@@ -74,6 +82,7 @@ section {
 	}
 
 	&.hero {
+
 		color: #444;
 		background: $brand-color;
 		text-align: left;
@@ -86,10 +95,11 @@ section {
 
 		h2 {
 			font-size: 3.5rem;
+			font-family: 'Playfair Display', serif;
 		}
 
 		p {
-			font-size: 1.8rem;
+			font-size: 1.5rem;
 			color: #444;
 		}
 
@@ -102,6 +112,22 @@ section {
 	&.alternate {
 		background: #eee;
 	}
+}
+
+.index-page {
+	.me {
+		margin-bottom: -100px;
+	}
+}
+
+.client-page {
+	.screenshot {
+		margin-top: -150px;
+	}
+}
+
+.bio {
+	background-color: white;
 }
 
 .button {
@@ -154,6 +180,14 @@ section {
 	align-items: flex-start;
 }
 
+.portfolio-grid img{
+	height: 275px;
+}
+
+.index-grid img{
+	height: 148px;
+}
+
 .image-grid {
 	padding: 0;
 	list-style: none;
@@ -163,6 +197,7 @@ section {
 	margin: 0 -20px;
 
 	li {
+		background: white;
 		padding: 0;
 		box-sizing: border-box;
 		width: 100%;
@@ -210,8 +245,9 @@ section {
 		bottom: 0;
 		left: 0;
 		right: 0;
-		background: rgba(0, 0, 0, 0.5);
+		background: rgba(0, 7, 0, 0.71);
 		padding: 20px;
+		height: 69px;
 	}
 
 	.name {
@@ -220,8 +256,9 @@ section {
 	}
 
 	.position {
+		font-size: 1.1rem;
 		margin-top: 5px;
-		color: #444;
+		color: #FFF;
 	}
 
 	.filler {
@@ -239,6 +276,7 @@ section {
 
 .patterned {
 	background: #222 url($pattern);
+	margin-top: -120px;
 
 	&,
 	p {
