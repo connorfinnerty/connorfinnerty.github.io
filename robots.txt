@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://connorfinnerty.github.io/sitemap.xml
